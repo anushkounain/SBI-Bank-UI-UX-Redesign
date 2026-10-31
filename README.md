@@ -1,4 +1,4 @@
-# 🏦 YONO SBI Mobile Banking App — UI/UX Redesign Case Study
+#  YONO SBI Mobile Banking App — UI/UX Redesign Case Study
 
 [![Behance Case Study](https://img.shields.io/badge/Behance-View%20Case%20Study-0057ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/240926235/YONO-SBI-App-Redesign-UXUI-Case-Study)
 [![Design Tool](https://img.shields.io/badge/Designed%20In-Figma%20%7C%20FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 **YONO SBI** (*You Only Need One*) is a digital banking application by the **State Bank of India (SBI)** that enables millions of users across India to carry out daily banking activities—such as checking account balances, transferring funds, paying utility bills, and managing financial services.
 
